@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1787502031528812}
+  m_IsPrefabParent: 1
+--- !u!1 &1787502031528812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4162359498596340}
+  - component: {fileID: 114069513440989834}
+  - component: {fileID: 114883106954943016}
+  m_Layer: 0
+  m_Name: Level Manager Prefab
+  m_TagString: Level Manager
+  m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4162359498596340
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1787502031528812}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114069513440989834
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1787502031528812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b92d3b2a7cebfd4ba4442caf366d635, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mapFile: {fileID: 4900000, guid: dbe6fb64a9fe6044891bf73c951d1e46, type: 3}
+  playerPrefab: {fileID: 1158995427780826, guid: 9c30f58b266473645b0308d4aa357255,
+    type: 2}
+  endpointPrefab: {fileID: 1199811672762708, guid: 25fb93112008a9c4192ab5b4eacae72e,
+    type: 2}
+  spawnerPrefab: {fileID: 1946519339537862, guid: 924143e1894ca7e40b1deed1c73a556e,
+    type: 2}
+  doorPrefab: {fileID: 1022514901929872, guid: 422d51df2b490914eb3200e1955b21bb, type: 2}
+  keyPrefab: {fileID: 1015864589606876, guid: 606795ec32288434fba8c1161347213a, type: 2}
+  wallPrefab: {fileID: 1328867503686606, guid: 117de569daed6b94e962434674f583bd, type: 2}
+  groundPrefab: {fileID: 1414051204305856, guid: f4af30e7083c96d42af8919508d5a645,
+    type: 2}
+  treePrefab: {fileID: 1198766444499938, guid: e931f3c05e06aeb41b0a200e085e29cc, type: 2}
+  groundSpikesPrefab: {fileID: 1106711851703770, guid: 509403103a05e7642850215f48b0269f,
+    type: 2}
+  enemySwordmanPrefab: {fileID: 1696793254832136, guid: 90d2578be11ee0e4da651eeb4286a08a,
+    type: 2}
+  enemyLancerPrefab: {fileID: 1696793254832136, guid: 8d032a2eaf7b63c4eaf56754f3bec07f,
+    type: 2}
+  enemySnakePrefab: {fileID: 1002665302469522, guid: 8337c8698b83fe942b6013fcb885b8fc,
+    type: 2}
+--- !u!114 &114883106954943016
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1787502031528812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_AgentTypeID: -1372625422
+  m_CollectObjects: 0
+  m_Size: {x: 10, y: 10, z: 10}
+  m_Center: {x: 0, y: 2, z: 0}
+  m_LayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_UseGeometry: 0
+  m_DefaultArea: 0
+  m_IgnoreNavMeshAgent: 1
+  m_IgnoreNavMeshObstacle: 1
+  m_OverrideTileSize: 0
+  m_TileSize: 256
+  m_OverrideVoxelSize: 0
+  m_VoxelSize: 0.083333336
+  m_BuildHeightMesh: 0
+  m_NavMeshData: {fileID: 23800000, guid: 6404efe2ce1e84c45bc36a594b8df5b2, type: 2}

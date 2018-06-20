@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 29fb9fa4bf475b84d8a67d52469e8139
+timeCreated: 1512067251
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChicagoFLF
+  fontNames:
+  - ChicagoFLF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

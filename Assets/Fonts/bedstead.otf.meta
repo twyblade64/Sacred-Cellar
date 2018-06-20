@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6d73c40e0d7045245b10b3ec9650ab3d
+timeCreated: 1512067244
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bedstead
+  fontNames:
+  - Bedstead
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

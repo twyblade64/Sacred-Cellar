@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enviorment
+  - Destroyable Enviorment
+  - Collectible
+  - Endpoint
+  - Level Manager
+  - Game UI
+  - Enemy
+  - Spawner
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hitbox
+  - Debris
+  - Characters
+  - Enviorment
+  - Collectibles
+  - Spawners
+  - Area Checks
+  - Static Enviorment
+  - Proyectile
+  - Potential Field
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

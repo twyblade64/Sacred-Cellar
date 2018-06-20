@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5ff7c82be48926246a26dd6bcf041813
+timeCreated: 1512067256
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Warenhaus Typenhebel
+  fontNames:
+  - Warenhaus Typenhebel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

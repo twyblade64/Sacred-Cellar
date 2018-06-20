@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: 3b92d3b2a7cebfd4ba4442caf366d635
+timeCreated: 1511647136
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mapFile: {instanceID: 0}
+  - playerPrefab: {fileID: 1158995427780826, guid: 9c30f58b266473645b0308d4aa357255,
+      type: 2}
+  - endpointPrefab: {fileID: 1199811672762708, guid: 25fb93112008a9c4192ab5b4eacae72e,
+      type: 2}
+  - spawnerPrefab: {fileID: 1946519339537862, guid: 924143e1894ca7e40b1deed1c73a556e,
+      type: 2}
+  - dialogZonePrefab: {fileID: 1926113448931898, guid: 5b00c2fabb7213248b586884672a0264,
+      type: 2}
+  - doorPrefab: {fileID: 1022514901929872, guid: 422d51df2b490914eb3200e1955b21bb,
+      type: 2}
+  - keyPrefab: {fileID: 1015864589606876, guid: 606795ec32288434fba8c1161347213a,
+      type: 2}
+  - enemyDetectorPrefab: {fileID: 1262408158759748, guid: fa6722c2c9aeea94a96f4cf2f006f37d,
+      type: 2}
+  - wallPrefab: {fileID: 1328867503686606, guid: 117de569daed6b94e962434674f583bd,
+      type: 2}
+  - groundPrefab: {fileID: 1414051204305856, guid: f4af30e7083c96d42af8919508d5a645,
+      type: 2}
+  - pitPrefab: {fileID: 1917672602192942, guid: 55a649b9fdbe7eb4da40cc54eba8c43d,
+      type: 2}
+  - treePrefab: {fileID: 1198766444499938, guid: e931f3c05e06aeb41b0a200e085e29cc,
+      type: 2}
+  - groundSpikesPrefab: {fileID: 1106711851703770, guid: 509403103a05e7642850215f48b0269f,
+      type: 2}
+  - bridgePrefab: {fileID: 1188621733129452, guid: 8082206d32e731e4d888cb6f2ed3a86b,
+      type: 2}
+  - campfirePrefab: {fileID: 1388977764330274, guid: a3696271b286f0442b989906d6a9c5b1,
+      type: 2}
+  - chairPrefab: {fileID: 1753566729287686, guid: 18e48cc59d71a7c44bfeb4736409618d,
+      type: 2}
+  - flowerPrefab: {fileID: 1067770107718084, guid: 28619d3f1e0d8874c92a5790be0eb7cd,
+      type: 2}
+  - gatePrefab: {fileID: 1529927336425114, guid: ebb01b7790036f745a65f8f118d3f1c5,
+      type: 2}
+  - gravePrefab: {fileID: 1148001817516814, guid: 2c44bcdbcefd35f49bfa18ea3cebcba5,
+      type: 2}
+  - homePrefab: {fileID: 1157577894010064, guid: 62ccc44cf71fb3c4b9fd6a795d86e422,
+      type: 2}
+  - pot1Prefab: {fileID: 1453503384305858, guid: f6d89c72106c4e84eb98977a434dfce6,
+      type: 2}
+  - pot2Prefab: {fileID: 1103115070002606, guid: 418c45f354a97aa4499eef6e4b18a760,
+      type: 2}
+  - rockBig1Prefab: {fileID: 1741612313658698, guid: c6d8881740ce13f4aac685d3add0c170,
+      type: 2}
+  - rockMedium1Prefab: {fileID: 1176119176171040, guid: a693d76e784b5ee40b5c0516fc2afacf,
+      type: 2}
+  - rockSmall1Prefab: {fileID: 1260810883237440, guid: 704698c52582436458da88f48d001224,
+      type: 2}
+  - rockSmall2Prefab: {fileID: 1599930796258084, guid: 9c0322d8802d8e64cae4ace958ea8653,
+      type: 2}
+  - shopPrefab: {fileID: 1002324900131768, guid: 2ef496642af707048873a6a3b27abadb,
+      type: 2}
+  - shroomsPrefab: {fileID: 1805547601593824, guid: b65431354fb067e478b58e36e7afbd71,
+      type: 2}
+  - signalAdvicePrefab: {fileID: 1765729665797970, guid: 09c3e0a805a4abe4284de0163f08e83a,
+      type: 2}
+  - signalDirectionalPrefab: {fileID: 1590423479569440, guid: d52af27bf4fe44b4984f918ed440bd7d,
+      type: 2}
+  - skullPrefab: {fileID: 1107157212305736, guid: 1d8b783d129934f47a31c38212d41a68,
+      type: 2}
+  - stoneColumnBrokenPrefab: {fileID: 1476978550972598, guid: bee4c608f3837e74a9c9e52829788afa,
+      type: 2}
+  - stoneColumnGroundPrefab: {fileID: 1603292439368786, guid: 10f60becde210464ea49600138bf7d38,
+      type: 2}
+  - stoneColumnNormalPrefab: {fileID: 1684811775427292, guid: 62dada95b14734a42be68efec64eacda,
+      type: 2}
+  - tablePrefab: {fileID: 1769121950043854, guid: 82c4ae66f6aec8648a7ade2d6a4d95fd,
+      type: 2}
+  - tree1Prefab: {fileID: 1148862416406014, guid: 988299ae2da05be459a69bc6123a7a5e,
+      type: 2}
+  - tree2Prefab: {fileID: 1560971571370476, guid: d5ad182ff8bd8d54a9d589cbf50b2f58,
+      type: 2}
+  - tree3Prefab: {fileID: 1948866229847708, guid: 9b43be6348d74bc478c0bcfc24b0878e,
+      type: 2}
+  - tree4Prefab: {fileID: 1987898718791904, guid: 7f1734b0bc6c5784a963b46433c25389,
+      type: 2}
+  - wellPrefab: {fileID: 1580443913625556, guid: 5dc9f9148d5f51c4482fdf9522a6ae9f,
+      type: 2}
+  - woodenDoorPrefab: {fileID: 1164631493863374, guid: 7e3dbe7cc3b48614081a2c75cdfe99bc,
+      type: 2}
+  - enemySwordmanPrefab: {fileID: 1696793254832136, guid: 90d2578be11ee0e4da651eeb4286a08a,
+      type: 2}
+  - enemyLancerPrefab: {fileID: 1696793254832136, guid: 8d032a2eaf7b63c4eaf56754f3bec07f,
+      type: 2}
+  - enemySnakePrefab: {fileID: 1002665302469522, guid: 8337c8698b83fe942b6013fcb885b8fc,
+      type: 2}
+  - enemyCrossbowmanPrefab: {fileID: 1773773199991702, guid: 8b1e944c893932f4aa689b90219c7a1a,
+      type: 2}
+  - enemyHammermanPrefab: {fileID: 1904015978941144, guid: 7c4327069d13c2b43b35461adcd88b4a,
+      type: 2}
+  - enemySlimeBigPrefab: {fileID: 1558640066385074, guid: 0b8f741e0de7c87489a398b78b2a1f36,
+      type: 2}
+  - enemySlimeNormalPrefab: {fileID: 1490679574372938, guid: ef86cd46859369d43a47bdc4f09ecf77,
+      type: 2}
+  - enemySlimeSmallPrefab: {fileID: 1547940601740010, guid: a99f2d128a7e90c4d955c190cf930bbd,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

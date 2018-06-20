@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e5bf1c6c54be3bf4b8b4ca9303584810
+labels:
+- Enemy
+- Entity
+timeCreated: 1506354752
+licenseType: Free
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
